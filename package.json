@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-intertechno-switch",
+  "version": "0.0.1",
+  "description": "Homebridge switch for Intertechno devices",
+  "license": "ISC",
+  "keywords": [
+      "homebridge-plugin",
+      "intertechno",
+      "switch"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/danmih1980/homebridge-intertechno-switch.git"
+  },
+  "bugs": {
+      "url": "https://github.com/danmih1980/homebridge-intertechno-switch/issues"
+  },
+  "engines": {
+      "node": ">=0.12.0",
+      "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+      "node-persist": "^2.1.0"
+  }
+}
